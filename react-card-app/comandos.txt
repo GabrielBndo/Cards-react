@@ -1,0 +1,8 @@
+npm install
+cd mocks
+npm install json-server
+npx json-server --watch db.json
+
+ABRIR UM SEGUNDO TERMINAL
+
+npm run dev
